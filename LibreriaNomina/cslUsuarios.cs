@@ -29,7 +29,9 @@ namespace LibreriaNomina
                     return 1;
                 }
             }
-
+            //marclinux@yahoo.com
+            //marclinux@gmail.com
+            //9612333983
 
         }
         #endregion
